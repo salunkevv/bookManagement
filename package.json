@@ -1,0 +1,19 @@
+{
+  "name": "bookmanagement",
+  "version": "1.0.0",
+  "description": "Creating Book Mangement Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salunkevv/bookManagement.git"
+  },
+  "author": "VivekVVS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salunkevv/bookManagement/issues"
+  },
+  "homepage": "https://github.com/salunkevv/bookManagement#readme"
+}
